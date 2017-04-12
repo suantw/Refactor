@@ -6,7 +6,9 @@ using System.Threading.Tasks;
 
 namespace RefactorModel
 {
-    public class Refactor
+    public class Refactor<T>
     {
+        public Refactor()
+        { }
     }
 }
