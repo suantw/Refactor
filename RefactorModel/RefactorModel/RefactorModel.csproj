@@ -39,6 +39,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Extension\Serialize.cs" />
     <Compile Include="Refactor.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
